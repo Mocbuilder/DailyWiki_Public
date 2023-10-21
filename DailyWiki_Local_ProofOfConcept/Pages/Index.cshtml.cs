@@ -11,7 +11,7 @@ namespace DailyWiki_Local_ProofOfConcept.Pages
         public string PageTitle { get; set; }
         public string CleanedText { get; set; }
         public string ArticleLink { get; set; }
-
+        //tetscomment
         public void OnGet()
         {
             WikiScraper scraper = new WikiScraper();
