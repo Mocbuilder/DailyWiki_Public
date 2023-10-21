@@ -11,7 +11,15 @@ namespace DailyWiki_Local_ProofOfConcept.Pages
         public string PageTitle { get; set; }
         public string CleanedText { get; set; }
         public string ArticleLink { get; set; }
-        //tetscomment
+
+        private readonly rticleLogEntry _articleLogService;
+
+        public IndexModel(rticleLogEntry articleLogService)
+        {
+            _articleLogService = articleLogService;
+        }
+
+        //testcomment
         public void OnGet()
         {
             WikiScraper scraper = new WikiScraper();
@@ -21,6 +29,14 @@ namespace DailyWiki_Local_ProofOfConcept.Pages
             CleanedText = scraper.CleanedText;
             ArticleLink = scraper.ArticleLink;
 
+            var articleLogEntry = new rticleLogEntry
+            {
+                Title = scraper.PageTitle,
+                Link = scraper.ArticleLink
+            };
+
+            // Add the current article to the shared article log
+            _articleLogService.AddArticleLogEntry(articleLogEntry);
         }
     }
 }

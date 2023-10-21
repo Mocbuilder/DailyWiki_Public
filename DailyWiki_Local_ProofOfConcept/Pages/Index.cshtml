@@ -4,6 +4,19 @@
     ViewData["Title"] = Model.PageTitle;
 }
 
+<button id="refreshButton">Reload all Systems (Admin only)</button>
+<script>
+    document.getElementById("refreshButton").addEventListener("click", function () {
+        var password = prompt("Enter the password:");
+        if (password === "testString") {
+            location.reload();
+        } else {
+            alert("Incorrect password. Access denied.");
+        }
+    });
+</script>
+
+
 <div class="text-center">
     <h1 class="display-4">@Model.PageTitle</h1>
     <p>Link to article: <a href="@Model.ArticleLink">@Model.ArticleLink</a></p>

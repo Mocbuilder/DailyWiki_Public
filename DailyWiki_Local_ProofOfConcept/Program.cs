@@ -1,5 +1,11 @@
 using DailyWiki_Local_ProofOfConcept;
 using static DailyWiki_Local_ProofOfConcept.WikiScraper;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure;
+using HtmlAgilityPack;
+using Newtonsoft.Json.Linq;
 
 var builder = WebApplication.CreateBuilder(args);
 

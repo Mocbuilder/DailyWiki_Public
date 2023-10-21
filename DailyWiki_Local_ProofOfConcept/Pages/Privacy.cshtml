@@ -1,8 +1,14 @@
 ﻿@page
 @model PrivacyModel
 @{
-    ViewData["Title"] = "Copyright and stuff";
+    ViewData["Title"] = "List of articles displayed today:";
 }
 <h1>@ViewData["Title"]</h1>
-
-<p>Free use, no commercial usage.</p>
+<ul>
+    @foreach (var entry in Model.ArticleLog)
+    {
+        <li>
+            <a href="@entry.Link">@entry.Title</a>
+        </li>
+    }
+</ul>

@@ -2,6 +2,10 @@
 using Newtonsoft.Json.Linq;
 using System.Net;
 using DailyWiki_Local_ProofOfConcept;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure;
 
 namespace DailyWiki_Local_ProofOfConcept
 {
