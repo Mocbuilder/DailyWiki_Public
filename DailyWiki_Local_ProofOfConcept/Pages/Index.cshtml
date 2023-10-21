@@ -1,0 +1,11 @@
+﻿@page
+@model DailyWiki_Local_ProofOfConcept.Pages.IndexModel
+@{
+    ViewData["Title"] = Model.PageTitle;
+}
+
+<div class="text-center">
+    <h1 class="display-4">@Model.PageTitle</h1>
+    <p>Link to article: <a href="@Model.ArticleLink">@Model.ArticleLink</a></p>
+    <p>@Html.Raw(Model.CleanedText)</p>
+</div>
