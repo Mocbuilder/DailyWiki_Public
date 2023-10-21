@@ -11,6 +11,8 @@ namespace DailyWiki_Local_ProofOfConcept
 {
     public class WikiScraper
     {
+        private rticleLogEntry logEntryInstance = new rticleLogEntry();
+
         public string PageTitle { get; private set; }
         public string CleanedText { get; private set; }
         public string ArticleLink { get; private set; }
@@ -65,6 +67,13 @@ namespace DailyWiki_Local_ProofOfConcept
                     Console.WriteLine("An error occurred: " + ex.Message);
                 }
             }
+
+            rticleLogEntry logEntry = new rticleLogEntry
+            {
+                Title = PageTitle,
+                Link = ArticleLink
+            };
+            logEntryInstance.AddArticleLogEntry(logEntry);
         }
 
         // Function to clean up HTML tags and entities from the text

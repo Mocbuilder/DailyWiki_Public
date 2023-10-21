@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure;
 using HtmlAgilityPack;
 using Newtonsoft.Json.Linq;
+using DailyWiki_Local_ProofOfConcept;
 
 
 namespace DailyWiki_Local_ProofOfConcept
@@ -16,7 +17,7 @@ namespace DailyWiki_Local_ProofOfConcept
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            services.AddScoped<rticleLogEntry>(); // Use the updated class name
+            services.AddScoped<rticleLogEntry>();
         }
 
         public void Configure(IApplicationBuilder app)
