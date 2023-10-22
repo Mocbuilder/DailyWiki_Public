@@ -5,7 +5,7 @@
 }
 <h1>@ViewData["Title"]</h1>
 <ul>
-    @foreach (var entry in Model.ArticleLog)
+    @foreach (var entry in Model.ArticleLogService.ArticleLog)
     {
         <li>
             <a href="@entry.Link">@entry.Title</a>

@@ -12,9 +12,9 @@ namespace DailyWiki_Local_ProofOfConcept.Pages
         public string CleanedText { get; set; }
         public string ArticleLink { get; set; }
 
-        private readonly rticleLogEntry _articleLogService;
+        private readonly IrticleLogEntry _articleLogService;
 
-        public IndexModel(rticleLogEntry articleLogService)
+        public IndexModel(IrticleLogEntry articleLogService)
         {
             _articleLogService = articleLogService;
         }

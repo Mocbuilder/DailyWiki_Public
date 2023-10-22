@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 
 namespace DailyWiki_Local_ProofOfConcept
 {
-    public class rticleLogEntry
+    public class rticleLogEntry : IrticleLogEntry
     {
         public string Title;
         public string Link;
