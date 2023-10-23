@@ -17,9 +17,8 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy" target="_blank">Article Log</a> <!-- Add target="_blank" -->
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy" target="_blank">Article Log</a>
                         </li>
-
                     </ul>
                 </div>
             </div>
@@ -32,14 +31,26 @@
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - DailyWiki_Local_ProofOfConcept - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        <div class="container d-flex justify-content-between align-items-center">
+            &copy; 2023 - DailyWiki (Proof of Concept) <a asp-area="" asp-page="/Privacy">Privacy</a>
+            <button id="refreshButton" class="btn btn-primary">Reload all Systems (Admin only)</button>
         </div>
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script>
+        document.getElementById("refreshButton").addEventListener("click", function () {
+            var password = prompt("Enter the password:");
+            if (password === "testString") {
+                location.reload();
+            } else {
+                alert("Incorrect password. Access denied.");
+            }
+        });
+    </script>
 
     @await RenderSectionAsync("Scripts", required: false)
 </body>
