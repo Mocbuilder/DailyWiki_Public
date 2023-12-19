@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DailyWiki_Local_ProofOfConcept")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad46630a76fabec5525992a51a52c129605458dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbceb0a133514ed43cafd2eca1b8950110f935a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DailyWiki_Local_ProofOfConcept")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DailyWiki_Local_ProofOfConcept")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,10 +12,16 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
+                <!-- Add a button to toggle the menu -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
                 <a class="navbar-brand" href="#">DailyWiki</a>
 
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <!-- Add the menu with links -->
+                <div class="navbar-collapse collapse" id="navbarMenu">
                     <ul class="navbar-nav flex-grow-1">
+                        <!-- Add links to your pages here -->
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy" target="_blank">Article Log</a>
                         </li>
@@ -32,8 +38,8 @@
 
     <footer class="border-top footer text-muted">
         <div class="container d-flex justify-content-between align-items-center">
-            &copy; 2023 - DailyWiki (Proof of Concept) <a asp-area="" asp-page="/Privacy">Privacy</a>
-            <button id="refreshButton" class="btn btn-primary">Reload all Systems (Admin only)</button>
+            &copy; 2023 - DailyWiki (Proof of Concept)
+            <button id="refreshButton" class="btn btn-secondary">Reload all Systems (Admin only)</button>
         </div>
     </footer>
 

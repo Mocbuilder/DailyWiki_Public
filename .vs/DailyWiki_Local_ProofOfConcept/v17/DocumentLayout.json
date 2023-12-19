@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\rticlelogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\rticlelogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\wikiscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\wikiscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\irticlelogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\irticlelogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|c:\\users\\admin\\source\\repos\\dailywiki_gitrepo\\dailywiki_local_proofofconcept\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A87649F8-0433-40D0-91AC-CA55F8A67691}|DailyWiki_Local_ProofOfConcept\\DailyWiki_Local_ProofOfConcept.csproj|solutionrelative:dailywiki_local_proofofconcept\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-21T10:21:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-21T12:39:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IrticleLogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\IrticleLogEntry.cs",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\IrticleLogEntry.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\IrticleLogEntry.cs",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\IrticleLogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-22T09:26:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rticleLogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\rticleLogEntry.cs",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\rticleLogEntry.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\rticleLogEntry.cs",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\rticleLogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-21T13:35:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Program.cs",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Program.cs",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-21T10:21:10.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-21T10:21:10.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-21T10:21:10.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-21T10:21:10.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Error.cshtml",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-21T10:21:09.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-21T13:36:31.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WikiScraper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\WikiScraper.cs",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\WikiScraper.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\WikiScraper.cs",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\WikiScraper.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAnwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-21T10:21:10.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-10-21T10:21:10.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\DailyWiki_GitRepo\\DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "DailyWiki_Local_ProofOfConcept\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-10-21T10:21:10.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
