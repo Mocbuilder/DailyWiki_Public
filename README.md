@@ -5,4 +5,4 @@ The website has a working Log of all articles that were displayed, atleast as lo
 If the program is no longer working, please contact me: mocbuildercc@gmail.com
 
 # How to run
-Right now its only a Visual Studio (2022 Preview) Project, so you need to pen it there to run it. 
+Right now its only a Visual Studio (2022 Preview) Project, so you need to open it in there to run it. 
