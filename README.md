@@ -1,6 +1,6 @@
 # DailyWiki
 This is the public source code for my DailyWiki project. It is a program that randomly fetches a wikipedia articcle from the wikimediaAPI. 
-All of this is wrapped in a simple ASP.Net webapp to display and log all articles, so it is technically ready to deploy to a server.
+All of this is wrapped in a simple ASP.Net webapp to display and log all articles, so it is technically ready to be deploy to a server.
 
 ## Webscrapper
 The webapp and the webscrapper are two relatively seperated projects, with the webscrapper beeing a console application in its most bare state.
